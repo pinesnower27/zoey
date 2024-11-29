@@ -49,7 +49,7 @@ class OLS:
 
 
 if __name__ == '__main__':
-    data_path = "../../src/dta/cat_dog.csv"
+    data_path = "../../../src/dta/cat_dog.csv"
     df = pd.read_csv(data_path)
     # 下面应该实现Stata中`reg cat dog`相同的功能
     ols = OLS(y=df["cat"], x=df["dog"])
