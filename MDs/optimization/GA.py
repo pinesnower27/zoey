@@ -5,6 +5,6 @@
 #
 # @Author : Sepine Tam
 # @Email  : sepinetam@gmail.com
-# @File   : GA.py
+# @File   : GRA.py
 
 # GA 遗传算法 genetic algorithm
