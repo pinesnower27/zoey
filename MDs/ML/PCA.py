@@ -11,6 +11,10 @@
 
 class PCA:
     def __init__(self, n_components):
+        """
+        nothing test
+        :param n_components:
+        """
         pass
 
 
